@@ -1,2 +1,3 @@
-# xlauncherteam.github.io
-Our Official Website
+# Our Official Website 
+Checkout our launcher here [XLauncher](https://github.com/XLauncherTeam/XLauncher).   
+
